@@ -1,0 +1,45 @@
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.exe
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.deps.json
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.runtimeconfig.json
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.dll
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.pdb
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.csproj.AssemblyReference.cache
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.AssemblyInfoInputs.cache
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.AssemblyInfo.cs
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.dll
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\refint\Lab8_CSharp.dll
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.pdb
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.genruntimeconfig.cache
+C:\Users\Marius Andreiasi\RiderProjects\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\ref\Lab8_CSharp.dll
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.exe
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.deps.json
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.runtimeconfig.json
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.dll
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.pdb
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.AssemblyInfo.cs
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.dll
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\refint\Lab8_CSharp.dll
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.pdb
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.genruntimeconfig.cache
+C:\Users\andre\Desktop\Lab8_CSharp\Lab8_CSharp\obj\Debug\net7.0\ref\Lab8_CSharp.dll
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.exe
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.deps.json
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.runtimeconfig.json
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.dll
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\bin\Debug\net7.0\Lab8_CSharp.pdb
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.csproj.AssemblyReference.cache
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.AssemblyInfoInputs.cache
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.AssemblyInfo.cs
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.csproj.CoreCompileInputs.cache
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.dll
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\refint\Lab8_CSharp.dll
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.pdb
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\Lab8_CSharp.genruntimeconfig.cache
+D:\FACULTATE\AN 2\MAP\LABS\LABORATOR OPTIONAL\VAR_M\Lab8_CSharp\obj\Debug\net7.0\ref\Lab8_CSharp.dll
